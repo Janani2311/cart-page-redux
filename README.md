@@ -1,4 +1,4 @@
-# Shopping cart checkout page using React
+# Shopping cart checkout page using React- Redux/toolkit
 
 Created a shopping cart page showing cart-item details, price per item , user to set quantity per item, subtotal per item and the total amount.
 
